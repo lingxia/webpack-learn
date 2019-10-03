@@ -1,0 +1,19 @@
+/*! @copy right by zhaojian */
+body {
+  background-color: blue;
+}
+body div {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  border: 2px green solid;
+  background: url(/img/25fa84a32da9f192e22c7498a39185a6.jpg) no-repeat;
+  background-size: contain;
+}
+body img {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  border: 2px green solid;
+}
+

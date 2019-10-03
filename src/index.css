@@ -1,0 +1,8 @@
+@import './a.css';
+
+div {
+    width: "100px";
+    height: "100px";
+    background-color: pink;
+    border: "2px green solid";
+}
